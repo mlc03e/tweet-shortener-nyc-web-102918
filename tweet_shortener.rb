@@ -3,4 +3,8 @@ def dictionary(hash)
 end
 
 def word_substituter(string)
-  
+  string.each do |word|
+    if word == dictionary.keys
+      replace 
+    end
+  end

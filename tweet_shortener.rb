@@ -8,3 +8,4 @@ def word_substituter(string)
       replace 
     end
   end
+end

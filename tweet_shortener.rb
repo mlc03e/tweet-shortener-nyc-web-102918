@@ -1,2 +1,2 @@
 def dictionary(hash)
-  hash = 
+  hash = { "hello" => "hi"
